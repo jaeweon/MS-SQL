@@ -6,7 +6,7 @@
 ### 멀티 레코드셋을 지원한다.
 <br>
 <br>
-
+ 
 # MS-SQL 저장 방식
 ![image](https://github.com/jaeweon/MS-SQL/assets/34277606/90190dc9-f042-4466-815d-4f8e61300378)
 
