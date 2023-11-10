@@ -5,7 +5,7 @@
 ### DBMS 툴인 "Microsoft SQL Server Management Studio"의 사용이 매우 편리하다.
 ### 멀티 레코드셋을 지원한다.
 <br>
-<br>
+<br> 
  
 # MS-SQL 저장 방식
 ![image](https://github.com/jaeweon/MS-SQL/assets/34277606/90190dc9-f042-4466-815d-4f8e61300378)
